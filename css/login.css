@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    background-color: #ededed;
+    max-width: 380px;
+}
+
+
 #logo {
     height: 380px;
 }
@@ -22,6 +33,7 @@
 
 body {
     background-color: #EDEDED;
+    height: 880px;
 }
 
 body main h3 {
@@ -30,6 +42,7 @@ body main h3 {
     margin-bottom: 20px;
     margin-left: 50px;
     color: #5C5C5C;
+
 }
 
 #button {
@@ -69,3 +82,5 @@ body main h4 {
 #icon-logar {
     margin-left: 100px;
 }
+
+
